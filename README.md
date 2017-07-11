@@ -1,7 +1,7 @@
 Real-World CQRS/ES with ASP.NET and Redis Demo Project
 ====
 
-Blog posts:
+Exemplo base para aprendizado.
 
 1. [Overview](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/)
 2. [The Write Model](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-2-the-write-model/)
